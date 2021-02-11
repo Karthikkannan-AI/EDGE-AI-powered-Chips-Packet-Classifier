@@ -27,7 +27,7 @@
 
 ## Solution ##
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Chips%20Classifier.png">
 
 - - - -
 
