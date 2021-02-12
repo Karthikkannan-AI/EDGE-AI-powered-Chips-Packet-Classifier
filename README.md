@@ -39,7 +39,7 @@
 
 ### Evaluation of the Proposed Solution ###
 
-
+<a href="https://youtu.be/ah0xDyYSMy4" target="_blank"><img src="hhttps://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Chips%20Classification.png"/></a>     
 
 - - - -
 
