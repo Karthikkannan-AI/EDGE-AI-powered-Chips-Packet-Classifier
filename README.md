@@ -2,8 +2,9 @@
 
 ## Table of Contents ##
 
-* [Introduction](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#introduction)
-* [Application](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#application)
+* [About the Project]()
+* [AI on the Edge]()
+  * [Application Usecases]()
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#solution)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#evaluation-of-the-proposed-solution)
@@ -13,7 +14,13 @@
 
 - - - -
 
-## Introduction ##
+## About the Project ##
+
+
+
+- - - -
+
+## AI on the Edge ##
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Industrial%20AI.png">
 
@@ -25,11 +32,9 @@ __COMPUTER VISION AND INDUSTRY 4.0__
 
 Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that utilizes data from various types of sensors and all the available sources in order to optimize the processes. Computer Vision is a part of a complex approach to smart manufacturing that allows computers and machines to ‘see’ the physical world by enabling them to extract, process, and analyse information from visual inputs. 
 
-- - - -
-
-## Application ##
-
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Computer%20Vision.png">
+
+### Application Usecases ###
 
 | Application | Overview |
 | :------------- | :------------- |
