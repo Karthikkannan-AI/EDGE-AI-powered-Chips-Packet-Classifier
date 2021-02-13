@@ -2,9 +2,9 @@
 
 ## Table of Contents ##
 
-* [About the Project]()
-* [AI on the Edge]()
-  * [Application Usecases]()
+* [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#about-the-project)
+* [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#application-usecases)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#solution)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#evaluation-of-the-proposed-solution)
@@ -58,8 +58,6 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 ### Solution Workflow ###
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Chips%20Classificatio%20Workflow.png">
-
-- - - -
 
 ### Evaluation of the Proposed Solution ###
 
