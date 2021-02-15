@@ -16,7 +16,10 @@
 
 ## About the Project ##
 
-
+In this project, we have showcased a real-world use case of Real-time Image classification of Chips.
+We have trained a deep Learning-based Classification Model to identify different types and makes of Chips 
+The Deep Learning Model is deployed in Edge Device (Google Coral) for Real-time Inference. 
+This Demo Project is done to showcase the capabilities of Computer Vision in Industry 4.0
 
 - - - -
 
