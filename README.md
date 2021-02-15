@@ -16,7 +16,7 @@
 
 ## About the Project ##
 
-In this project, we have showcased a real-world use case of Real-time Image classification of Chips.
+In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Chips.
 
 We have trained a deep Learning-based Classification Model to identify different types and makes of Chips 
 
