@@ -1,4 +1,4 @@
-# EDGE AI powered Chips Packets Classifier
+# EDGE AI powered Chips Packet Classifier
 
 ## Table of Contents ##
 
@@ -17,13 +17,13 @@
 
 ## About the Project ##
 
-In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Chips Packets.
+In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Chips Packet.
 
-We have trained a Deep Learning-based Classification model to identify different types and makes of Chips Packets
+We have trained a Deep Learning-based Classification model to identify different types and makes of Chips Packets.
 
 The Deep Learning Model is deployed in Edge Device (Google Coral) for Real-time Inference. 
 
-This Demo Project is done to showcase the capabilities of Computer Vision in Industry 4.0
+This Demo Project is done to showcase the capabilities of Computer Vision in Industry 4.0.
 
 ### AI on the Edge ###
 
@@ -72,8 +72,8 @@ We have taken thousands of Images of the Chips packets in different lighting con
 
 ## Conclusion ##
 
-This project is purely for Demonstration purpose.
-Bring Computer Vision Powered by Edge AI to your Shop Floor
+This project is purely done for Demonstration purpose.
+Bring Computer Vision Powered by Edge AI to your Shop Floor.
 
 - - - -
 
