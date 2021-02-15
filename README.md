@@ -3,9 +3,10 @@
 ## Table of Contents ##
 
 * [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#about-the-project)
-* [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#ai-on-the-edge)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#ai-on-the-edge)
   * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#application-usecases)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#solution)
+  * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Packets-Classifier#data-collection)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#solution-workflow)
   * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#conclusion)
@@ -24,7 +25,7 @@ The Deep Learning Model is deployed in Edge Device (Google Coral) for Real-time 
 
 This Demo Project is done to showcase the capabilities of Computer Vision in Industry 4.0
 
-## AI on the Edge ##
+### AI on the Edge ###
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Industrial%20AI.png">
 
@@ -61,7 +62,7 @@ We have taken thousands of Images of the Chips packets in different lighting con
 
 ### Solution Workflow ###
 
-<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Chips%20Classificatio%20Workflow.png">
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Packets-Classifier/blob/main/resources/Chips%20Classification%20Workflow.png">
 
 ### Evaluation of the Proposed Solution ###
 
