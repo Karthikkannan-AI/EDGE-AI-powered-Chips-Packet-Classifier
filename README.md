@@ -1,4 +1,4 @@
-# EDGE-AI-powered-Chips-Packets-Classifier
+# EDGE AI powered Chips Packets Classifier
 
 ## Table of Contents ##
 
