@@ -109,7 +109,7 @@ We are navigating the business impact of Covid-19 through self-motivation and In
 
 This work is part of our journey towards Recovery and Reinvention.
 
-#EtopTechnologies #Artificialintelligence #DeepLearning #MachineLearning
+#EtopTechnologies #ArtificialIntelligence #DeepLearning #MachineLearning
 
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/CoronaPandemic.jpeg">
