@@ -72,8 +72,8 @@ We have taken thousands of Images of the Chips packets in different lighting con
 
 ## Conclusion ##
 
-This project is purely done for Demonstration purpose.
-Bring Computer Vision Powered by Edge AI to your Shop Floor.
+This project is purely done for Demonstration purposes.
+We can help bring Computer Vision powered by EDGE AI solutions to the Factory floor.
 
 - - - -
 
