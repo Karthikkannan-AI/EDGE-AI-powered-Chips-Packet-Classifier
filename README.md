@@ -4,7 +4,7 @@
 
 * [About the Project](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#about-the-project)
   * [AI on the Edge](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#ai-on-the-edge)
-  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#application-usecases)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Packets-Classifier#application-usecases-of-computer-vision-powered-by-edge-ai)
 * [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#solution)
   * [Data Collection](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Packets-Classifier#data-collection)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier#solution-workflow)
