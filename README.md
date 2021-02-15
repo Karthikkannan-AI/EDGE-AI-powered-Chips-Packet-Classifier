@@ -36,18 +36,17 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Computer%20Vision.png">
 
-### Application Usecases of Computer Vision ###
+### Application Usecases of Computer Vision powered by EDGE AI ###
 
 | Application | Overview |
 | :------------- | :------------- |
 | Predictive Maintenance | Using machine learning and IoT devices to monitor data on machinery and components, often using sensors, to collect data points and identify signals or take corrective actions before assets or components break down. |
 | Package Inspection | Product Identification & Counting |
 | Reading Barcodes | Identifying and processing hundreds and thousands of barcodes per day in the production line. |
-| Product and Components Assembly | Machine vision allows manufacturers to inspect bottles in a full 360-degree view to ensure that products are placed in the correct packaging and is also able to inspect other critical attributes of packaged products such as: Cap closure/seal Position Label Print quality and much more! |
-| 3D Vision Inspection | As components pass through the manufacturing plant, the machine vision system takes multiple scans of images from different angles to produce a 3d model, these images, when combined, allow the system to identify if connector pins on circuitry are faulty which could have disastrous effects later down the production line. |
+| Product and Components Assembly | Computer vision allows manufacturers to inspect products in a full 360-degree view to ensure that products are placed in the correct packaging and is also able to inspect other critical attributes of packaged products such as: Cap closure/seal Position Label Print quality and much more! |
 | Safety Inspection | Apply deep learning-based artificial intelligence to track people and predict the movement of equipment to help avoid dangerous interactions thereby improving safety. |
 | Track and Trace | Using computer vision to identify the Product serial numbers, expiration dates, manufacturing dates. |
-| Defect Reduction | Identifies defects and stores images and accompanying metadata related to the image.  As items fall through the production line, defects get classified according to their type and are assigned an accompanying grade. Doing this allows manufacturers to differentiate between different types of defect who may then wish to only halt the production line when X number of Y types of defect has occurred. |
+| Defect Reduction | Identifies defects and stores images and accompanying metadata related to the image.  As items fall through the production line, defects get classified according to their type and are assigned an accompanying grade. |
 
 - - - -
 
