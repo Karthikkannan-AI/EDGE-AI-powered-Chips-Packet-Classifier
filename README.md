@@ -71,7 +71,8 @@ We have taken thousands of Images of the Chips packets in different lighting con
 
 ## Conclusion ##
 
-
+This project is purely for Demonstration purpose.
+Bring Computer Vision Powered by Edge AI to your Shop Floor
 
 - - - -
 
