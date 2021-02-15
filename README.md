@@ -52,9 +52,12 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 ## Solution ##
 
-<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Chips%20Classifier.png">
+### Data Collection ###
 
-- - - -
+We have chosen chips packets from three different manufacturers that had a similar flavor and package color. 
+We have taken thousands of Images of the Chips packets in different lighting conditions, different orientations, and different background environments.
+
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Chips%20Classifier.png">
 
 ### Solution Workflow ###
 
