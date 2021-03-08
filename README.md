@@ -66,7 +66,7 @@ We have taken thousands of Images of the Chips packets in different lighting con
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/TnUTeLcIF3c" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Chips%20Classification.png"/></a>     
+<a href="https://youtu.be/A_eWqLke3G4" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Chips-Classifier/blob/main/resources/Chips%20Classification.png"/></a>     
 
 - - - -
 
